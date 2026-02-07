@@ -1,9 +1,0 @@
-{
-  "name": "mqtt-firebase-bridge",
-  "version": "1.0.0",
-  "main": "mqtt_firebase_bridge.js",
-  "dependencies": {
-    "mqtt": "^5.5.0",
-    "firebase-admin": "^12.0.0"
-  }
-}
