@@ -7,7 +7,7 @@ By combining low-cost hardware, edge computing, and lightweight machine learning
 ---
 
 ## 🔗 Project URL
-
+We are adding link to URL in some time,here is video demonstrating the same : https://drive.google.com/drive/folders/1_8Y3lO7yFKy-Q7sXk4Wc5nTRSvgg43rX
 Live Project / Demo:  
 https://your-project-url-here.com
 
